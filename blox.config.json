@@ -1,1 +1,1 @@
-{"name":"updateCandidate","type":"function","source":{"https":"https://github.com/devthalal/_hiringApp_updateCandidate","ssh":"git@github.com:devthalal/_hiringApp_updateCandidate.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
+{"name":"testapp_updateCandidate","type":"function","source":{"https":"https://github.com/devthalal/_testhrapp1_testapp_updateCandidate","ssh":"git@github.com:devthalal/_testhrapp1_testapp_updateCandidate.git"},"language":"nodejs","start":"npm run start","build":"npm run build","postPull":"npm i"}
